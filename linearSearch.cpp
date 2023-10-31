@@ -30,7 +30,7 @@ int main()
     }
     
     else{
-        cout<<"Not is not present"<<endl;
+        cout<<"Element is not present"<<endl;
     }
     
     return 0;
